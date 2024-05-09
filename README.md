@@ -18,5 +18,8 @@ Neste projeto, realizamos  operações de manipulação e visualização de dado
 8-1 Analisar a tabela "works_on" para verificar o número de horas atribuídas a cada projeto e funcionário.
 9- Separar colunas complexas Separado o endereço na tabela de empregados.
 10- Mesclar consultas employee e departament para criar uma tabela employee com o nome dos departamentos associados aos colaboradores.
+10-1 Eliminar colunas desnecessárias.
+11- Mesclar as colunas de Nome e Sobrenome para ter apenas uma coluna definindo os nomes dos colaboradores.
+12-Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir. Nesse caso, como o objetivo é juntar colunas, a opção Mesclar é a que atende.
 
 
